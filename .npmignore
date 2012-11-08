@@ -1,0 +1,8 @@
+.gitignore
+.gitmodules
+.npmignore
+config/
+node_modules/
+src/testing/
+
+

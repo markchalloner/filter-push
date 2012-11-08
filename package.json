@@ -1,0 +1,36 @@
+{
+  "name": "filter-push",
+  "preferGlobal": "true",
+  "version": "0.1.0",
+  "author": "Mark Challoner <mark.a.r.challoner@gmail.com>",
+  "description": "",
+  "contributors": [ 
+    {
+      "name": "Mark Challoner",
+      "email": "mark.a.r.challoner@gmail.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markchalloner/filter-push.git"
+  },
+  "dependencies" : {
+    "async"        : "0.1.x",
+    "coffee-script": "1.4.x",
+    "config"       : "0.4.x",
+    "imap"         : "0.6.x",
+    "mail-notifier": "0.1.x",
+    "prompt"       : "0.2.x",
+    "underscore"   : "1.4.x"
+  },
+  "analyze": false,
+  "devDependencies": {
+  },
+  "bundleDependencies": [
+  ],  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
+
